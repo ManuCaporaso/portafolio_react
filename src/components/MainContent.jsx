@@ -8,8 +8,8 @@ const MainContent = () => {
     { title: 'Pagina fullstack Node', description: 'Proyecto presentado en Codo a Codo 2024' },
     { title: 'Pagina fullstack PHP', description: 'Proyecto presentado en Codo a Codo 2024' },
     { title: 'Pagina fullstack Python', description: 'Proyecto presentado en Codo a Codo 2023' },
-    { title: 'Argentina Programana Python', description: 'Proyecto presentado en Argentina Programa 2023' },
-    { title: 'Argentina Programana Front End', description: 'Proyecto presentado en Argentina Programa 2023' }
+    { title: 'Argentina Programa Python', description: 'Proyecto presentado en Argentina Programa 2023' },
+    { title: 'Argentina Programa Front End', description: 'Proyecto presentado en Argentina Programa 2023' }
     
   ];
 

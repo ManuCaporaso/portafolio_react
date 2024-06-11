@@ -5,13 +5,22 @@ const Header = () => {
   return (
     <AppBar position="static">
       <Toolbar>
-        <Box sx={{ display: 'flex', alignItems: 'center', marginRight: 2 }}>
+        <Box sx={{ display: 'flex',
+           alignItems: 'center',
+            marginRight: 3,
+            bgcolor: 'grey',
+            width: '100%'
+             }}>
           <Avatar 
             alt="Logo" 
             src="/logo.png" 
-            sx={{ width: 180, height: 180, marginRight: 5 }} 
+            sx={{ 
+              width: 200, 
+              height: 200, 
+              marginRight: 40,
+             }} 
           />
-          <Typography variant="h4">
+          <Typography variant="h3">
             MI PORTAFOLIO - MANUEL ALEJANDRO CAPORASO
           </Typography>
         </Box>
