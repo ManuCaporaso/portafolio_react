@@ -15,16 +15,16 @@ const Footer = () => {
         textAlign: 'center'
       }}
     >
-      <Typography variant="body1">© 2024 My Portfolio</Typography>
+      <Typography variant="body1">© 2024 Mi Portfolio - Laboratorio FullStack II - ITS Cipolletti</Typography>
       <Box sx={{ display: 'flex', justifyContent: 'center', mt: 1 }}>
         <Link href="#" color="inherit" sx={{ mx: 1 }}>
           Home
         </Link>
         <Link href="#" color="inherit" sx={{ mx: 1 }}>
-          About
+          Acerca De
         </Link>
         <Link href="#" color="inherit" sx={{ mx: 1 }}>
-          Contact
+          Contacto
         </Link>
       </Box>
     </Box>

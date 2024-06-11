@@ -4,9 +4,13 @@ import PortfolioItem from './PortfolioItem';
 
 const MainContent = () => {
   const items = [
-    { title: 'Pagina full stack Python', description: 'Description for project 1' },
-    { title: 'Project 2', description: 'Description for project 2' },
-    { title: 'Project 3', description: 'Description for project 3' }
+    { title: 'Pagina fullstack Node - React', description: 'Proyecto presentado en Generacion T 2024' },
+    { title: 'Pagina fullstack Node', description: 'Proyecto presentado en Codo a Codo 2024' },
+    { title: 'Pagina fullstack PHP', description: 'Proyecto presentado en Codo a Codo 2024' },
+    { title: 'Pagina fullstack Python', description: 'Proyecto presentado en Codo a Codo 2023' },
+    { title: 'Argentina Programana Python', description: 'Proyecto presentado en Argentina Programa 2023' },
+    { title: 'Argentina Programana Front End', description: 'Proyecto presentado en Argentina Programa 2023' }
+    
   ];
 
   return (
